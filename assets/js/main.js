@@ -198,7 +198,7 @@ $(document).ready(function() {
     // Adiciona evento de clique para o botão de escolher novo arquivo .mp3
     $('#chooseAudioFileBtn').click(function() {
         // Define o diretório inicial para o seletor de arquivos
-        $('#audioFile').attr('directory', './assets/audio');
+        $('#audioFile').attr('directory', 'https://github.com/Fcaspirro/songz/tree/main/assets/audio');
         // Aciona o clique no campo de arquivo de áudio para abrir o seletor de arquivos
         $('#audioFile').click();
     });
