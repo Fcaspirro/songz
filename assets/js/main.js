@@ -38,7 +38,6 @@ $(document).ready(function() {
         }
     }
     
-
     $(document).on('click', '.deleteSong', function() {
         const songId = $(this).closest('.card').attr('id');
         removeSong(songId);
@@ -334,7 +333,6 @@ $(document).ready(function() {
         // Abre o modal de adição/editação
         $('#musicModal').modal('show');
     });
-
 
     loadMusicLibraryFromLocalStorage();
     loadPlaylistFromLocalStorage();
