@@ -1,5 +1,5 @@
 ﻿﻿<h3 align="center">
-	<img height="35px" alt="Logo do Songz" title="logo Songz" src="/assets/github/logo.png"/>
+	<img height="75px" alt="Logo do Songz" title="logo Songz" src="/assets/github/logo.png"/>
 </h3>
  
 <h5 align="center"> 
@@ -21,7 +21,7 @@
 </h4> 
 
  <div align="center">
-	 <img width="393px" alt="Coming Soon" title="Coming Soon" src="/assets/github/coming-soon.png"/>
+	 <img width="150px" alt="Coming Soon" title="Coming Soon" src="/assets/github/coming-soon.png"/>
 <!--    <img width="620px" alt="Large Devices" title="Large Devices" src="/assets/github/large-devices.gif"/> 
    	<img align="top" width="250px" alt="Small Devices" title="Small Devices" src="/assets/github/small-devices.gif"/>  -->
  </div><br>
@@ -31,7 +31,7 @@
 </h4> 
 
  <div align="center">
-	 <img width="393px" alt="Coming Soon" title="Coming Soon" src="/assets/github/coming-soon.png"/>
+	 <img width="150px" alt="Coming Soon" title="Coming Soon" src="/assets/github/coming-soon.png"/>
 <!--    <img width="620px" alt="Large Devices" title="Large Devices" src="/assets/github/large-newTrack.gif"/> 
   	 <img align="top" width="250px" alt="Small Devices" title="Small Devices" src="/assets/github/small-newTrack.gif"/>  -->
  </div><br>
@@ -41,7 +41,7 @@
 </h4> 
 
  <div align="center">
-	 <img width="393px" alt="Coming Soon" title="Coming Soon" src="/assets/github/coming-soon.png"/>
+	 <img width="150px" alt="Coming Soon" title="Coming Soon" src="/assets/github/coming-soon.png"/>
 <!--    <img width="620px" alt="Large Devices" title="Large Devices" src="/assets/github/large-playlist.gif"/>  
   	 <img align="top" width="250px" alt="Small Devices" title="Small Devices" src="/assets/github/small-playlist.gif"/>  -->
  </div><br>
