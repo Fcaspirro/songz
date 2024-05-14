@@ -1,4 +1,4 @@
-﻿﻿﻿﻿<h3 align="center">
+﻿﻿﻿﻿﻿﻿<h3 align="center">
 	<img height="75px" alt="Logo do Songz" title="logo Songz" src="/assets/github/logo.png"/>
 </h3>
  
@@ -14,7 +14,9 @@
 </h2> 
 
  <div align="center">
-	 <img width="620px" alt="Demo" title="Demo" src="/assets/github/demo.mp4"/>
+
+  https://github.com/Fcaspirro/songz/assets/89426460/b98a1658-c990-4f21-bbee-d027099e05a2
+  
  </div><br>
   
 ---
